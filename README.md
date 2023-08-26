@@ -11,7 +11,7 @@
 💬 Feel free to ask me anything or just chat !
     krystianklimczak1996r@gmail.com
   ✌️ ✌️ ✌️
-<!--
+
 **krystianklimczak/krystianklimczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
