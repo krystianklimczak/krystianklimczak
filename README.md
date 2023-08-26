@@ -10,8 +10,6 @@
 - 💬 Feel free to ask me anything or just chat :
    - krystianklimczak1996r@gmail.com
 
- ✌️ 
-
 
 
     
