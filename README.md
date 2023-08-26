@@ -1,9 +1,9 @@
 - 👋 Hi! Nice to meet you! I'm Krystian!
 - 📖 Actually I'm studying at Bootcamp GOIT 
 - 🌱 My skills at the moment :
-    ✅ HTML5
-    ✅ CSS / SCSS
-    ✅ JavaScript 
+   - ✅ HTML5
+   - ✅ CSS / SCSS
+   - ✅ JavaScript 
 - 🔭 My dream is to become FULLSTACK DEVELOPER!
 - 💪 I'm big fan of roller blades!
 - 🏍️ I'm lover of bikes! ( actualy my horse is GSXR1000RR ).
