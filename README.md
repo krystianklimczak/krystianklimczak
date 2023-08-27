@@ -2,7 +2,7 @@
 - 📖 Actually I'm studying at Bootcamp GOIT 
 - 🔭 My dream is to become FULLSTACK DEVELOPER!
 - 💪 I'm big fan of roller blades!
-- 🏍️ I'm lover of bikes! ( actualy my horse is GSXR1000RR ).
+- 🏍️ I'm bikes lover! ( actualy my horse is GSXR1000RR ).
 - 💬 Feel free to ask me anything or just chat :
    - krystianklimczak1996r@gmail.com
 - 🌱 My skills at the moment :
