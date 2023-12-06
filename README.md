@@ -5,7 +5,11 @@
 - 💬 How to reach me:  (kklimczak@icloud.com)
 - 🌱 My knowledge at the moment :
 
-<img align="right" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+<!-- <img align="right" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
 <img align="right" alt="HTML5" width="32px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
 <img align="right" alt="CSS3" width="32px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="right" alt="Sass" width="32px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -22,9 +26,8 @@
 <img align="right" alt="Git" height="32px" title ="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="right" alt="GitHub" height="32px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="right" alt="Visual Studio Code" height="32px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ -->
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 
 <img align="left" alt="TypeScript" width="32px" title ="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
