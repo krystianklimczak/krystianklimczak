@@ -5,7 +5,7 @@
 - 💬 How to reach me:  (kklimczak@icloud.com)
 - 🌱 My knowledge at the moment :
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,figma)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
