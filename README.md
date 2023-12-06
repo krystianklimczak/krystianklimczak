@@ -5,23 +5,23 @@
 - 💬 How to reach me:  (kklimczak@icloud.com)
 - 🌱 My knowledge at the moment :
 
-<img align="left" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
-<img align="left" alt="HTML5" width="32px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
-<img align="left" alt="CSS3" width="32px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="32px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="right" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
+<img align="right" alt="HTML5" width="32px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+<img align="right" alt="CSS3" width="32px" title ="CSS3"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="right" alt="Sass" width="32px" title ="SASS(SCSS)"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 - Languages:
-<img align="left" alt="JavaScript" width="32px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="right" alt="JavaScript" width="32px" title ="JavaScript ES6+" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 - Frameworks/Platforms:
-<img align="left" alt="React" width="32px" title ="React"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" height="32px" title ="Redux"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="right" alt="React" width="32px" title ="React"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="right" alt="Redux" height="32px" title ="Redux"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
 - Tools:
-<img align="left" alt="Git" height="32px" title ="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" height="32px" title ="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" height="32px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" height="32px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="right" alt="Git" height="32px" title ="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="right" alt="Git" height="32px" title ="Git"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="right" alt="GitHub" height="32px" title ="GitHub"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="right" alt="Visual Studio Code" height="32px" title ="VSCode"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <!--
 
