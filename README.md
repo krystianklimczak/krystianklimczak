@@ -1,13 +1,13 @@
 - 👋 Hi! Nice to meet you! [@the.pro.developer] I'm Krystian!
-- 🌱 I'm currently studying at Bootcamp GOIT & learning everything I can get my hands on...
-- 🔭 My goal is to become FULLSTACK DEVELOPER without any borders!
+- 🌱 GLOBAL GOIT STUDENT
+- 🔭 FULLSTACK DEVELOPER without any borders!
 - 🤔 I'm currently trying to make a day have 36 hours.
 - 💬 How to reach me:  (kklimczak@icloud.com)
 - 🌱 My knowledge at the moment :
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma)](https://skillicons.dev)
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postman,react,redux,materialui,firebase,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,npm)](https://skillicons.dev)
 
 <!-- <img align="right" alt="JSS" height="32px" title ="CSS-in-JS"  src="./JSS.png" />
 <img align="right" alt="HTML5" width="32px" title ="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
