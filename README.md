@@ -1,4 +1,4 @@
-- 👋 Hi! Nice to meet you! [@the.pro.developer] I'm Krystian!
+- 👋 Hi! Nice to meet you! [@the.pro.developer](https://www.linkedin.com/in/klima96/) I'm Krystian!
 - 🌱 GLOBAL GOIT STUDENT
 - 🔭 FULLSTACK DEVELOPER without any borders!
 - 🤔 I'm currently trying to make a day have 36 hours.
