@@ -1,7 +1,7 @@
 - 👋 Hi! Nice to meet you! [@LinkedIn](https://www.linkedin.com/in/klima96/) I'm Krystian!
 - 🔭 FULLSTACK DEVELOPER without any borders!
 - 💬 How to reach me: (kklimczak7@icloud.com)
-- 🤔 I'm currently trying to make a day that have 36 hours.
+- 🤔 I'm currently trying to make 36 hours day.
 
 - 🌱 My knowledge at the moment :
   
