@@ -2,6 +2,7 @@
 - 🔭 FULLSTACK DEVELOPER without any borders!
 - 💬 How to reach me: (kklimczak7@icloud.com)
 - 🤔 I'm currently trying to make 36 hours day.
+- Check my work account: (https://github.com/TN4HPEL3)
 
 - 🌱 My knowledge at the moment :
   
