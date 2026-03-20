@@ -1,6 +1,6 @@
 - 👋 Hi! Nice to meet you! [@LinkedIn](https://www.linkedin.com/in/klima96/) I'm Krystian!
 - 🔭 FULLSTACK DEVELOPER without any borders!
-- 💬 How to reach me: (kklimczak7@icloud.com)
+- 💬 How to reach me: (klimczak777@icloud.com)
 - 🤔 I'm currently trying to make 36 hours day.
 - Check my work account: (https://github.com/TN4HPEL3)
 
